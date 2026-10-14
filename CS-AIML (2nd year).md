@@ -1,4 +1,4 @@
 Shreyash
-IT 2nd year
+IT 2nd yr
 C
 251443
